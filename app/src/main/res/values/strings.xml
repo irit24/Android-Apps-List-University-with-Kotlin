@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">University</string>
+    <string name="university_name">Nama Universitas</string>
+    <string name="university_address">Alamat Universitas</string>
+    <string name="university_akreditasi">Akreditasi Universitas</string>
+    <string name="content_text">Text </string>
+    <string name="name">Ilyasa Ridho Tadzaka</string>
+    <string name="email">Tadzaka.10@gmail.com</string>
+    <string name="about">About</string>
+
+
+</resources>
